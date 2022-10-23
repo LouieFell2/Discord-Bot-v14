@@ -6,7 +6,7 @@
 ###### Here is a simple Discord bot with several commands that you may use on your bots.
 ---
 #### Installation
-- <code>git clone https://github.com/JohnAndreop/Discord-Bot-v14/</code>
+- <code>git clone https://github.com/LouieFell2/Discord-Bot-v14.git/</code>
 - <code>npm install</code>
 #### Replacement
 - Add your bot's token to the config file's `token` variable and replace `config-example.json` to `config.json`. **([Developer's Portal](https://discord.com/developers/applications))**
